@@ -1,2 +1,2 @@
-# num-generator
-a number generator project with javascript
+# css-mgs
+ project with css on how to deal with images
